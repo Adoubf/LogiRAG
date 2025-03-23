@@ -1,0 +1,41 @@
+# LangChain 核心组件
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-community>=0.1.0
+langchain-ollama>=0.1.0
+langchain-qdrant>=0.0.1
+
+# 向量数据库
+faiss-cpu>=1.7.4
+qdrant-client>=1.6.0
+
+# 文档处理库
+pymupdf>=1.23.0              # PDF文件处理
+unstructured>=0.11.0         # 通用文档提取
+unstructured-inference>=0.7.0 # 文档推理组件
+python-docx>=0.8.11          # Word文档处理
+openpyxl>=3.1.2              # Excel文件处理
+pandas>=2.0.0                # 表格数据处理
+python-magic>=0.4.27         # 文件类型识别
+python-magic-bin>=0.4.14; platform_system == 'Windows'  # Windows平台文件类型识别
+
+# 文本处理与OCR
+pytesseract>=0.3.10          # OCR文本识别
+pdf2image>=1.16.3            # PDF转图像
+pillow>=10.0.0               # 图像处理
+
+# 用户界面
+streamlit>=1.29.0            # Web应用框架
+streamlit-chat>=0.1.1        # 聊天组件
+
+# 工具库
+tqdm>=4.66.1                 # 进度条
+pydantic>=2.5.0              # 数据验证
+pyyaml>=6.0.1                # YAML处理
+pyarrow>=14.0.0              # 高效数据处理
+
+# 大模型相关
+ollama>=0.1.5                # 本地大模型接口
+
+# 并发与异步
+typing-extensions>=4.8.0      # 类型提示扩展

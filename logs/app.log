@@ -1,0 +1,30 @@
+2025-03-23 13:17:29,557 - INFO - ÂêØÂä®Ê®°ÂºèÔºöbuild
+2025-03-23 13:17:29,557 - INFO - ÂºÄÂßãÊûÑÂª∫ÂêëÈáèÂ∫ì...
+2025-03-23 13:17:34,475 - INFO - [INFO] Qdrant collection 'multi_format_vectors' Â∑≤Â≠òÂú®ÔºåË∑≥ËøáÂàõÂª∫„ÄÇ
+2025-03-23 13:17:34,477 - INFO - [SKIP] Unchanged: Áâ©ÊµÅ‰ø°ÊÅØ.csv
+2025-03-23 13:17:34,477 - INFO - [SKIP] Unchanged: Áâ©ÊµÅ‰ø°ÊÅØ.pdf
+2025-03-23 13:17:34,478 - INFO - [SKIP] Unchanged: Áâ©ÊµÅ‰ø°ÊÅØ.txt
+2025-03-23 13:17:52,127 - INFO - ÂêØÂä®Ê®°ÂºèÔºöapp
+2025-03-23 13:17:52,127 - INFO - ÂêØÂä®Â∫îÁî®ÁïåÈù¢...
+2025-03-23 13:19:53,485 - INFO - Õ®π˝app.py∆Ù∂ØStreamlit”¶”√...
+2025-03-23 13:19:53,485 - INFO - Ã· æ: Ω®“È π”√ streamlit run streamlit_app.py ∆Ù∂Ø
+2025-03-23 13:19:55,736 - INFO - Loading faiss with AVX2 support.
+2025-03-23 13:19:55,751 - INFO - Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2025-03-23 13:19:55,751 - INFO - Loading faiss.
+2025-03-23 13:19:55,757 - INFO - Successfully loaded faiss.
+2025-03-23 13:19:59,723 - INFO - Õ®π˝app.py∆Ù∂ØStreamlit”¶”√...
+2025-03-23 13:19:59,723 - INFO - Ã· æ: Ω®“È π”√ streamlit run streamlit_app.py ∆Ù∂Ø
+2025-03-23 13:20:00,590 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-03-23 13:20:01,424 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-03-23 13:20:03,095 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-23 13:20:36,817 - INFO - Õ®π˝app.py∆Ù∂ØStreamlit”¶”√...
+2025-03-23 13:20:36,818 - INFO - Ã· æ: Ω®“È π”√ streamlit run streamlit_app.py ∆Ù∂Ø
+2025-03-23 13:20:37,714 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-03-23 13:20:38,597 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-03-23 13:20:38,688 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-03-23 13:20:57,707 - INFO - Õ®π˝app.py∆Ù∂ØStreamlit”¶”√...
+2025-03-23 13:20:57,707 - INFO - Ã· æ: Ω®“È π”√ streamlit run streamlit_app.py ∆Ù∂Ø
+2025-03-23 13:20:58,584 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-03-23 13:20:59,455 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-03-23 13:20:59,616 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
