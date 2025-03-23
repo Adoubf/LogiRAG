@@ -1,9 +1,11 @@
 # 物流行业智能信息咨询系统
 
-![物流RAG系统](https://img.shields.io/badge/RAG-物流咨询系统-blue)
-![Python](https://img.shields.io/badge/Python-3.9+-green)
-![LangChain](https://img.shields.io/badge/LangChain-0.1.0+-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+[![GitHub](https://img.shields.io/badge/GitHub-LogiRAG-blue?logo=github)](https://github.com/Adoubf/LogiRAG)
+[![GitHub stars](https://img.shields.io/github/stars/Adoubf/LogiRAG?style=social)](https://github.com/Adoubf/LogiRAG/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Adoubf/LogiRAG?style=social)](https://github.com/Adoubf/LogiRAG/network/members)
+[![Python](https://img.shields.io/badge/Python-3.9+-green?logo=python)](https://www.python.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-0.1.0+-orange)](https://github.com/langchain-ai/langchain)
+[![License](https://img.shields.io/github/license/Adoubf/LogiRAG)](https://github.com/Adoubf/LogiRAG/blob/main/LICENSE)
 
 基于检索增强生成（RAG）技术的物流行业智能信息咨询系统，专为处理和检索物流领域专业知识而设计。能够从多种文档格式中提取、向量化信息，并提供精准的问答服务。
 
